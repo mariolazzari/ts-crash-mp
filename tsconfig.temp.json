@@ -14,6 +14,6 @@
     "skipLibCheck": true
   },
   "include": [
-    "/Users/mariolazzari/Code/Corsi/MicrosoftLearning/ts-crash-mp/src/02-object-param.problem.ts"
+    "/Users/mariolazzari/Code/Corsi/MicrosoftLearning/ts-crash-mp/src/10-set.problem.ts"
   ]
 }
