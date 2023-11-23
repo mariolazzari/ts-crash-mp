@@ -15,7 +15,7 @@ const addListener = (onFocusChange: FocusListener) => {
   });
 };
 
-addListener((isFocused) => {
+addListener(isFocused => {
   console.log({ isFocused });
 
   type tests = [Expect<Equal<typeof isFocused, boolean>>];
